@@ -5,7 +5,7 @@ repository; this one only hosts release binaries, so testers get a stable link.
 
 **Latest download**
 
-https://github.com/NulaCare/nulacare-android-releases/releases/latest/download/nulacare-go-android.apk
+https://github.com/NulaCare/android-releases/releases/latest/download/nulacare-go-android.apk
 
 ## Install
 
